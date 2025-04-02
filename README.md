@@ -1,5 +1,5 @@
 # DignityPong-Public
 
-Aquí encontraras las partes del codigo del juego DignityPong que considero mas interesantes. Todo lo que suba aqui esta realizado integramente por mi.
+Here you will find the parts of the DignityPong game code that I consider most interesting. Everything uploaded here has been entirely created by me.
 
 Iitch.io: https://gaming-boxer.itch.io/dignity-pong
